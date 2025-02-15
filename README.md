@@ -12,4 +12,3 @@ Key Features:
 Machine Learning: Python, Scikit-learn, TensorFlow/Keras
 Data Processing: Pandas, NumPy
 Visualization & Dashboard: Matplotlib, Seaborn, Plotly, Streamlit / Power BI
-![Uploading Screenshot 2025-02-15 004443.png…]()
